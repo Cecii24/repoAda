@@ -1,0 +1,39 @@
+.parent {
+border: 2px black dotted;
+display: inline-block;
+}
+  
+.box {
+display: inline-block;
+background-color: purple;
+width: 150px;
+height: 150px;
+}
+  
+#two {
+background-color: green;
+position: relative;
+top: 20px;
+left: 20px;
+  }
+  
+#twoAbsolute {
+background-color: green;
+position: absolute;
+top: 700px;
+left: 520px;
+}
+
+.onlinebutton {
+  background-color: white;
+  color: rgb(209, 209, 183);
+  width: 200px;
+  height: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}

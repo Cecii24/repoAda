@@ -1,0 +1,245 @@
+body {
+    margin: 50px 0px 0px 250px;
+}
+
+section {
+    padding: 5px;
+}
+
+#linea1 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.gris {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 100px;
+}
+
+.verde {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 70px;
+    bottom: 90px;
+}
+
+.gris2 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo2 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 60px;
+}
+
+.verde2 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 70px;
+    bottom: 160px;
+}
+
+.gris1 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo1 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+}
+
+.verde1 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 70px;
+    bottom: 160px;
+}
+
+
+/* FIN LINEA UNO */
+
+
+#linea2 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.gris3 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo3 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 60px;
+}
+
+.verde3 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    bottom: 90px;
+}
+
+.gris4 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo4 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 100px;
+    left: 40px;
+}
+
+.verde4 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    bottom: 130px;
+    left: 40px;
+}
+
+.gris5 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo5 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+}
+
+.verde5 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 70px;
+    bottom: 120px;
+}
+
+
+/* FIN LINEA DOS */
+
+
+#linea3 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.gris6 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo6 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+}
+
+.verde6 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    bottom: 90px;
+}
+
+.gris7 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo7 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 20px;
+    bottom: 60px;
+}
+
+.verde7 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 35px;
+    bottom: 90px;
+}
+
+.gris8 {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo8 {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+}
+
+.verde8 {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    bottom: 125px;
+    left: 35px;
+}

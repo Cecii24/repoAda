@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+/*
+  Consigna:
+  Asignar las propiedades que correspondan para que que el ítem 1 sea mayor al ítem 2 y menor al ítem 3, teniendo en cuenta que el ancho de container.
+*/
+.container{
+    width: 600px;
+    min-height: 500px;  
+    margin: auto;
+    background-color: #d3d3d3;
+    display: flex;
+}
+  
+.item{
+    width: 100px;
+    max-height: 100px;
+    line-height: 100px;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #bc3b69;
+}
+  
+#item-1{
+    flex-grow: 2;
+}
+  
+#item-2{
+    
+}
+
+#item-3 {
+    flex-grow: 3;
+}

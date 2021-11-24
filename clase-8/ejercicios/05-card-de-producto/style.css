@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(238, 238, 238);
+    margin: 50px 0px 50px 350px;
+}
+
+.contenedor {
+    background-color: rgb(203, 33, 64) ;
+    width: 600px;
+    height: 350px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+}
+
+.info {
+    color: white;
+    background-color: rgb(12, 31, 44);
+    width: 600px;
+    height: 600px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.boton {
+    background-color: rgb(203, 33, 64) ;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 35px;
+}
+
+.text {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid purple;
+    border-radius: 20px;
+}

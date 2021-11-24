@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    background-color: lightseagreen;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    width: 300px;
+    background-color: lightyellow;
+}
+
+footer{
+    height: 300px;
+    background-color: mediumaquamarine;
+}
+
+menu {
+    background-color: mistyrose;
+    width: 300px;
+}

@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(234, 231, 251);
+    text-align: center;
+}
+
+.contenedor {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 180px 0px 0px 450px;
+}
+
+p {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 50px 100px 0px 100px;
+    font-weight: bold;
+}
+
+.valor-1 {
+    color: grey;
+    width: 100px;
+    height: 20px;
+    border: 1px solid lightgray;
+    display: inline;
+}
+
+.valor-2 {
+    color: grey;
+    width: 100px;
+    height: 20px;
+    border: 1px solid lightgray;
+    display: inline;
+}
+
+.valor-3 {
+    color: grey;
+    width: 100px;
+    height: 50px;
+    border: 1px solid lightgray;
+    display: inline;
+}
+
+.valor-4 {color: grey;
+    width: 100px;
+    height: 20px;
+    border: 1px solid lightgray;
+    display: inline;
+}
+
+.button {
+    color: #fcfcfc;
+    background-color: rgb(117, 99, 246);
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+    padding-top: 10px;
+}

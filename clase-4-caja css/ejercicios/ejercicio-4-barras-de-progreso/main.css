@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(241, 229, 241);
+    margin: 200px 0px 0px 450px;
+}
+
+.contenedora-1 {
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.progreso-1 {
+    color: white;
+    background-color: mediumseagreen;
+    width: 50px;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.contenedora-2 {
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.progreso-2 {
+    color: white;
+    background-color: mediumseagreen;
+    width: 120px;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.contenedora-3 {
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.progreso-3 {
+    color: white;
+    background-color: mediumseagreen;
+    width: 250px;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.contenedora-4 {
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.progreso-4 {
+    color: white;
+    background-color: mediumseagreen;
+    width: 350px;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.contenedora-5 {
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.progreso-5 {
+    color: white;
+    background-color: mediumseagreen;
+    width: 450px;
+    padding: 6px;
+    border-radius: 50px;
+}

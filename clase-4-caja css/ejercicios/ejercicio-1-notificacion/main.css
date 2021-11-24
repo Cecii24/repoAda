@@ -1,0 +1,34 @@
+body {
+    background-color: #f9f9fb;
+}
+
+#texto {
+    background-color: white;
+    width: 400px;
+    height: 330px;
+    padding: 45px 20px 30px 40px;
+    border-radius: 4px;
+    margin: 150px 100px 150px 450px;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: Calibri, sans-serif;
+    font-size: 15px;
+    color:
+}
+
+#link {
+    text-decoration: none;
+    color:royalblue;
+}
+
+.button {
+    background-image: linear-gradient(90deg, #57a0e4, #567ae4);
+    color:white;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px 0px rgba(112,152,191,0.3);
+    text-align: center;
+}

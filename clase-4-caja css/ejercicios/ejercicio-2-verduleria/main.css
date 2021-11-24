@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(165, 214, 167)
+}
+
+.caja {
+    background-color: rgb(247, 247, 252);
+    font-family: sans-serif;
+    width: 310px;
+    height: 350px;
+    margin: 150px 50px 50px 525px;
+    border-radius: 10px;
+    box-shadow: 5px 6px 10px 5px rgb(148, 196, 150);
+}
+
+h1 {
+    color: rgb(36, 46, 76);
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    color: rgb(125, 122, 158);
+    margin: 10px;
+    text-align: center;
+}
+
+.manzana {
+    background-color: white;
+    color: black;
+    width: 140px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 25px 5px 10px 70px;
+    border: 1px solid rgb(235, 235, 242);
+    border-radius: 25px;
+}
+
+.banana {
+    background-color: white;
+    color: black;
+    width: 140px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 5px 10px 70px;
+    border: 1px solid rgb(235, 235, 242);
+    border-radius: 25px;
+}
+
+.durazno {
+    background-color: white;
+    color: black;
+    width: 140px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 5px 10px 70px;
+    border: 1px solid rgb(235, 235, 242);
+    border-radius: 25px;
+}
+
+.frutilla {
+    background-color: white;
+    color: black;
+    width: 140px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 10px 70px;
+    border: 1px solid rgb(235, 235, 242);
+    border-radius: 25px;
+}

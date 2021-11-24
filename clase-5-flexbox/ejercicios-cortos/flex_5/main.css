@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  /*
+  Consigna:
+  Asignar las propiedades que correspondan para que el ítem 1 se achique la cuarta parte del ítem 3 y que el ítem 2 seachique la mitad del ítem 3 
+  */
+  .container{
+    width: 90%;
+    min-width: 300px;
+    min-height: 500px;  
+    margin: auto;
+    background-color: #d3d3d3;
+    display: flex;
+  }
+  
+  .item{
+    width: 100px;
+    max-height: 100px;
+    line-height: 100px;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #bc3b69;
+    flex-basis: 300px;
+  }
+  
+  #item-1{
+    
+  }
+  
+  #item-2{
+    
+  }
+  
+  #item-3{
+    
+  }

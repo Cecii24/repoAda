@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(238, 238, 238, 0.897)
+}
+
+.italia {
+    display: flex;
+    margin: 10% 40%;
+}
+.verde {
+    background-color: green;
+    width: 100px;
+    height: 200px;
+}
+
+.blanca {
+    background-color: white;
+    width: 100px;
+    height: 200px;
+}
+
+.roja {
+    background-color: red;
+    width: 100px;
+    height: 200px;
+}
+
+.alemania {
+    margin: 10% 40%;
+    width: 300px;
+    height: 200px;
+}
+
+.negro {
+    background-color: black;
+    width: 300px;
+    height: 200px;
+}
+
+.amarillo {
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+}

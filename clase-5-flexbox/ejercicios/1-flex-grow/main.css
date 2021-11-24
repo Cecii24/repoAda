@@ -1,0 +1,149 @@
+/*inicio punto 1*/
+
+.contenedor1 {
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+}
+
+.item1 {
+    background-color: palevioletred;
+    width: 250px;
+    height: 200px;
+}
+
+.item2 {
+    background-color:rgb(74, 214, 137);
+    flex-grow: 1;
+    height: 200px;
+}
+
+.item3 {
+    background-color: lightskyblue;
+    width: 250px;
+    height: 200px;
+}
+
+/*fin punto 1*/
+
+
+/*inicio punto 2*/
+
+.contenedor2 {
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.item4 {
+    background-color: moccasin;
+    width: 200px;
+    height: 200px;
+}
+
+.item5 {
+    background-color: olive;
+    height: 200px;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+.item6 {
+    background-color: peru;
+    height: 200px;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+.item7 {
+    background-color: plum;
+    width: 200px;
+    height: 200px;
+}
+
+/*fin punto 2*/
+
+
+/*inicio punto 3*/
+
+.contenedor3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 300px;
+    margin-bottom: 100px;
+}
+
+.item8 {
+    background-color: rebeccapurple;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.item9 {
+    background-color: salmon;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.item10 {
+    background-color: violet;
+    height: 200px;
+    flex-grow: 1;
+}
+
+/*fin punto 3*/
+
+
+/*inicio punto 4*/
+
+.contenedor4 {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 200px;
+    margin-bottom: 100px;
+}
+
+.item11 {
+    background-color: turquoise;
+    flex-grow: 2;
+}
+
+.item12 {
+    background-color: tomato;
+    flex-grow: 1;
+}
+
+.item13 {
+    background-color: lightslategray;
+    flex-grow: 1;
+}
+
+/*fin punto 4*/
+
+
+/*inicio punto 5*/
+
+.contenedor5 {
+    display: flex;
+    height: 200px;
+    flex-basis: 600px;
+    margin-bottom: 50px;
+}
+
+.item14 {
+    background-color: maroon;
+    flex-grow: 2;
+}
+
+.item15 {
+    background-color: mediumpurple;
+    flex-grow: 2;
+}
+
+.item16 {
+    background-color: salmon;
+    flex-grow: 4;
+}

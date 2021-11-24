@@ -1,0 +1,45 @@
+section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
+
+.item1 {
+    background-color: salmon;
+    flex-basis: 25%;
+}
+
+.item2 {
+    background-color: sandybrown;
+    flex-basis: 25%;
+}
+
+.item3 {
+    background-color: sienna;
+    flex-basis: 25%;
+}
+
+.item4 {
+    background-color: skyblue;
+    flex-basis: 25%;
+}
+
+.item5 {
+    background-color:tomato;
+    flex-basis: auto;
+}
+
+.item6 {
+    background-color:lightgray;
+    flex-basis: auto;
+}
+
+.item7 {
+    background-color: lightseagreen;
+    flex-basis: 25%;
+}

@@ -1,0 +1,56 @@
+/* Estructura de comentario en CSS */
+
+/*
+    Sintáxis de CSS
+        selector {
+            nombre_de_propiedad: valor;
+        }
+*/
+
+/* Unico selector */
+body {
+    background-color: burlywood;
+}
+
+/* Varios selectores, separados por comas */
+h1, h2 {
+    background:aqua;
+    color: red;
+}
+
+.secciones{
+    background-color: chartreuse;
+}
+
+p.individual {
+    color:white;
+}
+
+.individual {
+    font-weight: bold;
+}
+
+span {
+    color:purple;
+}
+
+#principal {
+    font-style: italic;
+    font-family: 'Lucida Sans';
+}
+
+div>p {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/* Colores:
+    Por nombre: black, pink, green...
+    RGB:
+        rojo: rgb (255, 0, 0)
+        verde: rgb (0, 255, 0)
+        azul: rgb (0, 0, 255)
+    HEXA: #ffffff (blanco) #000000 (negro)
+    HUE:
+*/

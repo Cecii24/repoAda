@@ -1,0 +1,27 @@
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+h3{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.comentario {
+    color:blueviolet;
+    text-decoration: none;
+}
+
+.fecha {
+    color:lightgrey;
+    font-size: 12px;
+}
+
+.reacciones {
+    background-color: lightgrey;
+}
