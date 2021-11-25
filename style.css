@@ -1,3 +1,33 @@
-. {
-    background-color: azure;
+body {
+    background: linear-gradient(to right, #b0c9dd, #d7d2cc);
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+li {
+    font-family: 'Lato', sans-serif;
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.it :hover {
+    color: white;
+    background-color: thistle;
+    width: 100%;
+}
+
+nav {
+    color: rgb(78, 78, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
 }
